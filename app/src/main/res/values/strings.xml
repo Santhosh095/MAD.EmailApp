@@ -1,12 +1,15 @@
 <resources>
     <string name="app_name">Email App</string>
-    <string name="Welcome_text">Android Studio\nSimple Email App</string>
+    <string name="Welcome_text">Android Studio\nSMTP Email App</string>
     <string name="credits">Designed By Santhosh S 200701221 REC\nMobile Application Development Laboratory</string>
     <string name="get_started">Get Started</string>
-    <string name="enter_mobile_number">Enter Email</string>
+    <string name="enter_your_mail">Enter Your Email</string>
+    <string name="enter_rec_mail">Enter Recipient Email</string>
     <string name="enter_message">Enter Message</string>
     <string name="reset">Reset?</string>
     <string name="hello_again">Hello again!</string>
     <string name="send">Send</string>
-    <string name="welcome_to_our_sms_app_nenter_the_receiver_number_and_n_message">Welcome to our Email App\nEnter the To Email and\n message</string>
+    <string name="enter_your_email_address_and_password">Enter Your Email address and \nPassword</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_recipient_email_and_n_content_of_the_mail">Enter Recipient Email and\n Content of the mail</string>
 </resources>
