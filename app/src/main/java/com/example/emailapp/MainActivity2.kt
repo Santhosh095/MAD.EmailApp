@@ -63,7 +63,7 @@ class MainActivity2 : AppCompatActivity() {
 
                 Transport.send(message)
                 runOnUiThread {
-                    Toast.makeText(applicationContext, "Your message here", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(applicationContext, "Message Send", Toast.LENGTH_SHORT).show()
                 }
             } catch (e: MessagingException) {
                 e.printStackTrace()
